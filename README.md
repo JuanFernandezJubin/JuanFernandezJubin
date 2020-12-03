@@ -35,6 +35,6 @@ const aboutMe = {
 ```
 </br>
 
-![Juan's github stats](https://github-readme-stats.vercel.app/api?username=JuanFernandezJubin&show_icons=true&title_color=8F8E0E&icon_color=79ff97&text_color=fff&bg_color=000442)
+![Juan's github stats](https://github-readme-stats.vercel.app/api?username=JuanFernandezJubin&show_icons=true&title_color=EFB810&icon_color=79ff97&text_color=fff&bg_color=000442)
 
 

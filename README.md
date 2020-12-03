@@ -35,13 +35,13 @@ const aboutMe = {
    currentOccupation: ["student, open for job opportunities"],
 };
 ```
-<p align='end'>
-<img align="center" height='100px' src="https://lh3.googleusercontent.com/proxy/WZWiCp_hjRSZtKRKMFhBTiqPl027XVeh3JF9pikTuZckuFrLxPx4ya1L0pbdSiFGirF29glr35GiEeRC0rdv00EYgkVf3smEUPx_uDYFi58x">
-</p>
-</br>
+
 <p align='start'>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFernandezJubin&layout=compact&theme=radical" alt="My Github Stats">
 <img align="center" height='150px' src="https://i.imgur.com/oXANqnj.gif">
+   <p align='end'>
+<img align="center" height='100px' src="https://lh3.googleusercontent.com/proxy/WZWiCp_hjRSZtKRKMFhBTiqPl027XVeh3JF9pikTuZckuFrLxPx4ya1L0pbdSiFGirF29glr35GiEeRC0rdv00EYgkVf3smEUPx_uDYFi58x">
+</p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanFernandezJubin&&show_icons=true&theme=radical&line_height=27&v=5" alt="JuanFernandezJubin's GitHub Stats" />
 </p>
 

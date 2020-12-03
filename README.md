@@ -1,7 +1,7 @@
 
 ### Hi GitHub 👋 I'm Juan Ignacio
 
-<img src="https://64.media.tumblr.com/dc2b4d5c066cbd9f6022d8427fe58d8c/tumblr_mhlswzuNIY1qfg7o3o1_r1_400.gif">
+<img src="https://64.media.tumblr.com/b79f5a5046c6143bcaf294da73a31250/tumblr_n5c8uzsfw01ta6kmeo1_400.gif">
 
 
 <p><em>Computer Technician, code lover and graduate from <a href="https://www.soyhenry.com/">Henry Bootcamp</a> as Full Stack Developer.😊</br>

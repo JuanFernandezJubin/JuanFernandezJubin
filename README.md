@@ -13,9 +13,6 @@
 [![Stackoverflow](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/12604702/juan-ignacio-fernandez?tab=profile)
 ![Open Source](http://img.shields.io/badge/-Open%20Source%20Fan-3DA639?style=flat&logo=open-source-initiative&logoColor=ffffff)
 
-<p align='center'>
-<img height='100px' src="https://lh3.googleusercontent.com/proxy/WZWiCp_hjRSZtKRKMFhBTiqPl027XVeh3JF9pikTuZckuFrLxPx4ya1L0pbdSiFGirF29glr35GiEeRC0rdv00EYgkVf3smEUPx_uDYFi58x">
-</p>
 
 ```javascript
 const aboutMe = {

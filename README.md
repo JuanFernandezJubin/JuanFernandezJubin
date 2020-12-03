@@ -1,13 +1,11 @@
 
-<h2 align="center"> Hi GitHub 👋 I'm Juan Ignacio </h2>
-<p align="center">
+### Hi GitHub 👋 I'm Juan Ignacio 
+
 <img height='150px' src="https://i.imgur.com/MGOhFZV.gif">
-</p>
 
-<p align="center"><em>Computer Technician and Full Stack Developer from <a href="https://www.soyhenry.com/">Henry Bootcamp</a>, Physics lover & code maker.😊</br>Fan of Monkey Island
+
+<p><em>Computer Technician and Full Stack Developer from <a href="https://www.soyhenry.com/">Henry Bootcamp</a>, Physics lover & code maker.😊</br>Fan of Monkey Island
 </em></p>
-
-<h3>Contact with me:</h3>
    
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JFernandezJubin)](https://twitter.com/JFernandezJubin)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-ignacio-fernandez-jubin-0a3931199/)](https://www.linkedin.com/in/juan-ignacio-fernandez-jubin-0a3931199/)

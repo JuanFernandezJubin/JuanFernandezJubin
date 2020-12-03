@@ -34,8 +34,9 @@ const aboutMe = {
 };
 ```
 </br>
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=JuanFernandezJubin&&show_icons=true&theme=radical&line_height=27&v=5" alt="JuanFernandezJubin's GitHub Stats" />
+<p align='center'>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFernandezJubin&layout=compact&theme=radical" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanFernandezJubin&&show_icons=true&theme=radical&line_height=27&v=5" alt="JuanFernandezJubin's GitHub Stats" />
+</p>
 
 

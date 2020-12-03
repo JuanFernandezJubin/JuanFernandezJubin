@@ -4,7 +4,7 @@
 <img src="https://64.media.tumblr.com/b79f5a5046c6143bcaf294da73a31250/tumblr_n5c8uzsfw01ta6kmeo1_400.gif">
 
 
-<p><em>Computer Technician, code lover and graduate from <a href="https://www.soyhenry.com/">Henry Bootcamp</a> as Full Stack Developer.😊</br>
+<p><em>Computer Technician and Full Stack Developer from <a href="https://www.soyhenry.com/">Henry Bootcamp</a>, Physics lover & code maker.😊</br>
 </em></p>
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JFernandezJubin)](https://twitter.com/JFernandezJubin)

@@ -1,7 +1,7 @@
 
 ### Hi GitHub 👋 I'm Juan Ignacio
 
-<img src="https://i.imgur.com/MGOhFZV.gif">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Standing_wave.gif">
 
 
 <p><em>Computer Technician, code lover and graduate from <a href="https://www.soyhenry.com/">Henry Bootcamp</a> as Full Stack Developer.😊</br>

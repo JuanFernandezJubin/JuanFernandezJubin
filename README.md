@@ -4,7 +4,7 @@
 <img height='150px' src="https://i.imgur.com/MGOhFZV.gif" justify='center'>
 
 
-<p><em>Computer Technician and Full Stack Developer from <a href="https://www.soyhenry.com/">Henry Bootcamp</a>, Physics lover & code maker.😊</br>
+<p><em>Computer Technician and Full Stack Developer from <a href="https://www.soyhenry.com/">Henry Bootcamp</a>, Physics lover & code maker.😊</br>Fan of Monkey Island
 </em></p>
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JFernandezJubin)](https://twitter.com/JFernandezJubin)

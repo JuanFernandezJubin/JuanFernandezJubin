@@ -30,7 +30,8 @@ const aboutMe = {
          csharp: ["Asp.net Core"],
       },
       databases: ["PostgreSQL", "MongoDB", "SQL"],
-      ORM: ["Sequelize", "Mongoose"]
+      ORM: ["Sequelize", "Mongoose"],
+      learning: ["PHP" , "Laravel" , "Symphony" , "Wordpress"],
    },
    currentOccupation: ["student, open for job opportunities"],
 };

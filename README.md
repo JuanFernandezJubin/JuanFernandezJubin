@@ -31,7 +31,7 @@ const aboutMe = {
       },
       databases: ["PostgreSQL", "MongoDB", "SQL"],
       ORM: ["Sequelize", "Mongoose"],
-      learning: ["PHP" , "Laravel" , "Symphony" , "Wordpress"],
+      learning: ["Typescript" , "Angular" , "NestJs"],
    },
    currentOccupation: ["student, open for job opportunities"],
 };

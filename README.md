@@ -17,23 +17,24 @@
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript,HTML, CSS, CSharp],
+   pronouns: 'he' | 'him',
+   code: ['Javascript', 'Typescript', 'Python'],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux"],
-         css: ["Bootstrap", "Material Design"]
+         js: ['Vue', 'React', 'Redux'],
+         css: ['Bootstrap', 'Material Design']
       },
       backEnd: {
-         js: ["Node", "Express","Moleculer-Microservices"],
-         auth:["bcrypt","JsonWebToken"],
-         csharp: ["Asp.net Core"],
+         js: ['Node', 'Express','Moleculer-Microservices'],
+         auth:['bcrypt','JsonWebToken'],
       },
-      databases: ["PostgreSQL", "MongoDB", "SQL"],
-      ORM: ["Sequelize", "Mongoose"],
-      learning: ["Typescript" , "Angular" , "NestJs"],
+      databases: ['MySQL', 'DynamoDB', 'PostgreSQL', 'MongoDB', 'SQL'],
+      ORM: ['Sequelize', 'Mongoose'],
+      AWS: {
+         'services I work with' : ['Lambda','SageMaker','DynamoDB','CloudWatch','CodeCommit','ECS','EC2','S3','Step Functions', 'Athena'],
+      },
    },
-   currentOccupation: ["student, open for job opportunities"],
+   currentOccupation: ['Fullstack Developer Jr & Data engineer Jr at Colektia'],
 };
 ```
 <p align='start'>
